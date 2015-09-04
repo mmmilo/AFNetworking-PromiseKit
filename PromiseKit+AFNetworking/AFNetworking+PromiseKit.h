@@ -23,7 +23,6 @@
  */
 #import <AFNetworking/AFNetworking.h>
 #import <PromiseKit/PromiseKit.h>
-#import <Promise.h>
 
 static NSString *AFHTTPRequestOperationErrorKey =  @"afHTTPRequestOperationError";
 
